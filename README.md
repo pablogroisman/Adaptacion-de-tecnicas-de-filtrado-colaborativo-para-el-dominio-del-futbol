@@ -40,5 +40,5 @@ Para un análisis detallado de los resultados, por favor consulta el **Capítulo
 ## 🎓 Autor
 
 -   **Pablo Groisman**
-    -   GitHub: [@tu_usuario_de_github](https://github.com/tu_usuario_de_github)
-    -   LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu_perfil/)
+    -   GitHub: [@tu_usuario_de_github](https://github.com/pablogroisman)
+    -   LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/pablo-groisman-a481b1220/)
